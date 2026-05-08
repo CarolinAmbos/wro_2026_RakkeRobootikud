@@ -3,7 +3,12 @@
 
 ## Roboti dokumentatsioon
 
-Meie robot on lahe.
+---
+## Info struktuur
+
+* `code` - roboti kood
+* `models` - roboti põhja laserlõikus fail ja 3D mudelid osadest
+---
 
 ## Roboti ehitus
 
@@ -42,11 +47,13 @@ ROBOTI PILDID:
 <img width="120" height="160" alt="694780677_1391318369683750_4913826632039349728_n" src="https://github.com/user-attachments/assets/d4359eeb-930a-4226-9a0d-7d9ee424cc28" />
 <img width="120" height="160" alt="688959090_951857090819986_1265937365051198215_n" src="https://github.com/user-attachments/assets/27a2f238-5459-4eb5-94f4-8e8298c5b9e5" />
 
+---
+
 ## Kood
 coodi loogika:
 <img width="120" height="160" alt="692331747_1239695948017261_4997291549142741630_n" src="https://github.com/user-attachments/assets/e1e68d34-452c-4ff6-948a-7e776e2f20bb" />
 
-
+---
 
 ## Platsid
 
