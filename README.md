@@ -51,6 +51,7 @@ coodi loogika:
 ## Platsid
 
 Plats 1:
+
 <img width="120" height="213,25" alt="674908625_986323177073322_5922061411484058443_n" src="https://github.com/user-attachments/assets/13cf3a90-2827-4788-93da-70838a753ec6" />
 
 Plats 2:
