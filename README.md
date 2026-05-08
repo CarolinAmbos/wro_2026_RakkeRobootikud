@@ -29,7 +29,7 @@ kaamera takistuste nägemiseks - huskylens kaamera (kaseiga)
 
 Seinte tuvastamiseks ultra sonic andurid (kaseiga)
 
-<img width="120" height="160" alt="690528576_1940574493260800_8525633376845302870_n" src="https://github.com/user-attachments/assets/4087414a-18b6-4833-8883-484ac21fbc10" />
+<img width="120" height="140" alt="690528576_1940574493260800_8525633376845302870_n" src="https://github.com/user-attachments/assets/4087414a-18b6-4833-8883-484ac21fbc10" />
 
 energy source - Litium patareid
 
