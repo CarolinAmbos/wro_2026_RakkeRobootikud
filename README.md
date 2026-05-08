@@ -1,5 +1,5 @@
 # wro_2026_RakkeRobootikud
-<img width="180" height="180" alt="OIP" src="https://github.com/user-attachments/assets/1443445b-a98f-4459-b23a-449399de9a8b" />
+<div align="center"><img src="image.png" alt="alt text"></div><img width="180" height="180" alt="OIP" src="https://github.com/user-attachments/assets/1443445b-a98f-4459-b23a-449399de9a8b" />
 
 ## Roboti dokumentatsioon
 
