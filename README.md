@@ -44,7 +44,8 @@ ROBOTI PILDID:
 
 ## Kood
 coodi loogika:
-<img width="120" height="160" alt="689525032_1342303084378687_1405793184664111852_n" src="https://github.com/user-attachments/assets/21078264-5b34-45c5-a72a-df597a8e7efc" />
+<img width="120" height="160" alt="692331747_1239695948017261_4997291549142741630_n" src="https://github.com/user-attachments/assets/e1e68d34-452c-4ff6-948a-7e776e2f20bb" />
+
 
 
 ## Platsid
@@ -52,4 +53,4 @@ Plats 1:
 <img width="120" height="213,25" alt="674908625_986323177073322_5922061411484058443_n" src="https://github.com/user-attachments/assets/13cf3a90-2827-4788-93da-70838a753ec6" />
 
 Plats 2:
-<img width="120" height="160" alt="692331747_1239695948017261_4997291549142741630_n" src="https://github.com/user-attachments/assets/e1e68d34-452c-4ff6-948a-7e776e2f20bb" />
+<img width="120" height="160" alt="689525032_1342303084378687_1405793184664111852_n" src="https://github.com/user-attachments/assets/21078264-5b34-45c5-a72a-df597a8e7efc" />
