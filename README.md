@@ -5,26 +5,11 @@
 
 Meie robot on lahe.
 
-paljas robot:
-<img width="480" height="640" alt="671161621_1410152190862382_1362296107343678027_n" src="https://github.com/user-attachments/assets/9a9f98a5-b68e-4d6a-978f-80f85bed622c" />
-
-Robot pealt vaates:
-<img width="480" height="640" alt="694320351_847030255109772_6624946750258791365_n" src="https://github.com/user-attachments/assets/195f1810-2407-4247-9ab0-9c3db3caf031" />
-
-Angel view:
-<img width="480" height="640" alt="694780677_1391318369683750_4913826632039349728_n" src="https://github.com/user-attachments/assets/d4359eeb-930a-4226-9a0d-7d9ee424cc28" />
-
-closeup:
-<img width="480" height="640" alt="688959090_951857090819986_1265937365051198215_n" src="https://github.com/user-attachments/assets/27a2f238-5459-4eb5-94f4-8e8298c5b9e5" />
-
-Robot alt:
-<img width="480" height="640" alt="683883200_1640995473895392_6839198560260087392_n" src="https://github.com/user-attachments/assets/2971c865-2837-402f-a304-c76c9ea73352" />
-
 ## Roboti ehitus
 
 Roboti alus on 3mm akrüül (pilt on vana)
 
-<img width="480" height="640" alt="671161621_1410152190862382_1362296107343678027_n" src="https://github.com/user-attachments/assets/008d98f4-a86f-4676-abd2-33cc9cea1f6b" />
+<img width="240" height="320" alt="671161621_1410152190862382_1362296107343678027_n" src="https://github.com/user-attachments/assets/008d98f4-a86f-4676-abd2-33cc9cea1f6b" />
 
 keeramiseks kasutame servo mootorit (teada pole selle allikat)
 
@@ -50,7 +35,12 @@ energy source - Litium patareid
 
 <img width="480" height="640" alt="685454294_1702758247567863_4734858499360150202_n" src="https://github.com/user-attachments/assets/dd6d665b-4174-4588-ae54-3fff884823ce" />
 
+ROBOTI PILDID:
 
+<img width="480" height="640" alt="671161621_1410152190862382_1362296107343678027_n" src="https://github.com/user-attachments/assets/9a9f98a5-b68e-4d6a-978f-80f85bed622c" />
+<img width="480" height="640" alt="694320351_847030255109772_6624946750258791365_n" src="https://github.com/user-attachments/assets/195f1810-2407-4247-9ab0-9c3db3caf031" />
+<img width="480" height="640" alt="694780677_1391318369683750_4913826632039349728_n" src="https://github.com/user-attachments/assets/d4359eeb-930a-4226-9a0d-7d9ee424cc28" />
+<img width="480" height="640" alt="688959090_951857090819986_1265937365051198215_n" src="https://github.com/user-attachments/assets/27a2f238-5459-4eb5-94f4-8e8298c5b9e5" />
 
 ## Kood
 coodi loogika:
