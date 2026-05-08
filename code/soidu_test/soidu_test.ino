@@ -1,12 +1,13 @@
-int IN1 = 6;
-int IN2 = 5;
-int ENA = 7;
+int IN1 = 7;
+int IN2 = 6;
+int ENA = 5;
 #include <Servo.h>
 
 Servo rool;
 void setup() {
   // put your setup code here, to run once:
   rool.attach(3); // servo pin
+  Serial.begin(9600);
 
   pinMode(ENA, OUTPUT);
   pinMode(IN1, OUTPUT);
@@ -41,6 +42,5 @@ void loop() {
   // put your main code here, to run repeatedly:
   //edasi(500, 130);
 
-  rool.write(90);
-
+  edasi(2000, 60);
 }
