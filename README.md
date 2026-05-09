@@ -10,6 +10,21 @@
 * `models` - roboti põhja laserlõikus fail ja 3D mudelid osadest
 ---
 
+## Sisukord
+
+- [Meie robot](#meie-robot)  
+- [Roboti ehitus](#roboti-ehitus)  
+- [Kood](#kood)  
+- [Platsid](#platsid)  
+
+---
+## Meie robot
+
+Andu (roboti nimi) on iseseisvalt sõitev Arduino kontrolleriga autonoomne robot, kes kasutab takistuste nägemiseks ühte Huskylens-i ja kahte ultra sonic sensorit. Huskylensiga jälgib Andu punast- ja rohelist torni ning jälgib ka jooni mattil, et õigel ajal keerata. Kahte ultra sonic sensoriga vaatab ta, et ta seina ei sõidaks.
+
+Meie robot on lahe.
+
+---
 ## Roboti ehitus
 
 Roboti alus on 3mm akrüül (pilt on vana)
@@ -50,6 +65,7 @@ ROBOTI PILDID:
 ---
 
 ## Kood
+
 coodi loogika:
 <img width="120" height="160" alt="692331747_1239695948017261_4997291549142741630_n" src="https://github.com/user-attachments/assets/e1e68d34-452c-4ff6-948a-7e776e2f20bb" />
 
@@ -57,9 +73,12 @@ coodi loogika:
 
 ## Platsid
 
-Plats 1:
+Aja nappuse ja vahendite puuduse tõttu kasutasime oma loovust ja käepäraseid vahendeid, et ise ehitada endale harjutamiseks sõidu platsid. Ehitasime neid lausa kahte erinevasse asukohta, kus tegutseme, et maksimaalselt ära kasutada meie aega ja soovi robotit katsetada.
+
+Plats 1 - Lahu kool
 
 <img width="120" height="213,25" alt="674908625_986323177073322_5922061411484058443_n" src="https://github.com/user-attachments/assets/13cf3a90-2827-4788-93da-70838a753ec6" />
 
-Plats 2:
+Plats 2 - Koeru Keskkool
+
 <img width="120" height="160" alt="689525032_1342303084378687_1405793184664111852_n" src="https://github.com/user-attachments/assets/21078264-5b34-45c5-a72a-df597a8e7efc" />
