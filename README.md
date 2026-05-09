@@ -77,6 +77,7 @@ ROBOTI PILDID:
 
 ## Kood
 
+Meie kood on kirjutatud Arduino id ja programeerimis keeleks on C++. Alustasime Huskylens-i tööle saamisega. Katsetasime kuidas tema süsteem töötab ja uurisime, kas Huskylens sobib arduinoga. Seejärel
 coodi loogika:
 <img width="120" height="160" alt="692331747_1239695948017261_4997291549142741630_n" src="https://github.com/user-attachments/assets/e1e68d34-452c-4ff6-948a-7e776e2f20bb" />
 
