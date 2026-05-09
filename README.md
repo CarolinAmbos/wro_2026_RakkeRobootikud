@@ -27,15 +27,18 @@ Meie robot on lahe.
 ---
 ## Roboti ehitus
 
-Roboti alus on 3mm akrüül (pilt on vana)
+Alljärgnevalt on välja toodud erinevad roboti osad koos ilustreeriva pildiga.
+
+Roboti põhjaks valisime 3mm akrüüli, mille lõikaśime välja laserlõikuriga. 
+Falili lõikamiseks disainisime ja valmistasime ise.
 
 <img width="120" height="160" alt="671161621_1410152190862382_1362296107343678027_n" src="https://github.com/user-attachments/assets/008d98f4-a86f-4676-abd2-33cc9cea1f6b" />
 
-keeramiseks kasutame servo mootorit (teada pole selle allikat)
+keeramiseks kasutame servo mootorit (teada pole selle allikat).
 
 <img width="120" height="160" alt="685604522_987521793944900_6633324361740464517_n" src="https://github.com/user-attachments/assets/4a3a4b3f-b79f-42fc-afdd-915e96e3883b" />
 
-robootika musta ja kolast värvi rattad (vahetamise ära ratta kummid et velgesid kasutada mis sobib mootori ülekandele paremini)
+Robot kasutab sõitmiseks ühte DC mootorit, mille küljes on robootika musta ja kolast värvi rattad. Vahetamise ära ratta kummid, et velgesid kasutada, mis sobivad mootori ülekandele paremini. 
 
 <img width="120" height="160" alt="670490473_1500242458431624_8726044778614137334_n" src="https://github.com/user-attachments/assets/f3e11e91-512e-46e6-8ec0-1c61d51dddc7" />
 
