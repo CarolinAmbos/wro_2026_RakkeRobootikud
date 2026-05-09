@@ -27,34 +27,42 @@ Meie robot on lahe.
 ---
 ## Roboti ehitus
 
-Alljärgnevalt on välja toodud erinevad roboti osad koos ilustreeriva pildiga.
+Alljärgnevalt on välja toodud erinevad roboti osad koos lahedate ilustreerivate pitidega.
 
+### Roboti põhi
+
+Andu põhja disaini inspiratsiooniks võtsime F1 autod kuna need on kiired, pööravad piisavalt hästi ja on lahedad.
 Roboti põhjaks valisime 3mm akrüüli, mille lõikaśime välja laserlõikuriga. 
-Falili lõikamiseks disainisime ja valmistasime ise.
+Falili lõikamiseks disainisime ja valmistasime ise. Väga lahe.
 
 <img width="120" height="160" alt="671161621_1410152190862382_1362296107343678027_n" src="https://github.com/user-attachments/assets/008d98f4-a86f-4676-abd2-33cc9cea1f6b" />
 
-keeramiseks kasutame servo mootorit (teada pole selle allikat).
+### Roboti sõitmine
+keeramiseks kasutame servo mootorit. Kahjuks pole teada selle allikat. Ikkagi on lahe.
 
 <img width="120" height="160" alt="685604522_987521793944900_6633324361740464517_n" src="https://github.com/user-attachments/assets/4a3a4b3f-b79f-42fc-afdd-915e96e3883b" />
 
-Robot kasutab sõitmiseks ühte DC mootorit, mille küljes on robootika musta ja kolast värvi rattad. Vahetamise ära ratta kummid, et velgesid kasutada, mis sobivad mootori ülekandele paremini. 
+Robot kasutab sõitmiseks ühte DC mootorit, mille küljes on robootika musta ja kolast värvi rattad. Vahetamise ära ratta kummid, et velgesid kasutada, mis sobivad mootori ülekandele paremini. Vinge.
 
 <img width="120" height="160" alt="670490473_1500242458431624_8726044778614137334_n" src="https://github.com/user-attachments/assets/f3e11e91-512e-46e6-8ec0-1c61d51dddc7" />
 
-elektroonika on roboti küljes velkroga
+### Elektroonika kinnitus
+elektroonika on roboti küljes velkroga, et me saaksime vajadusel need eemaldada. Väga äge lisa.
 
 <img width="120" height="160" alt="683883200_1640995473895392_6839198560260087392_n" src="https://github.com/user-attachments/assets/702736c2-b459-4581-8926-b72d8bd888ed" />
 
-kaamera takistuste nägemiseks - huskylens kaamera (kaseiga)
+### Takistuste nägemine
+kaamera mida kasutame takistuste nägemiseks on huskylens kaamera, millele lisasime 3D prinditud kaane lootes et kaamera on seljuhul täpsem. Kahjuks see ei avaldanud piisavat mõju, kuid siiski otsustasime selle jätta kuna see näeb lahe välja.
 
 <img width="120" height="160" alt="684203068_1957390701678020_2866031155544642137_n" src="https://github.com/user-attachments/assets/d3589d42-e404-46ac-8ab5-eb94f74f2e44" />
 
-Seinte tuvastamiseks ultra sonic andurid (kaseiga)
+Seinte tuvastamiseks kasutame ultra sonic andureid, millel on ka kaaned. Kaaned on kassi kõrva kujulised ja me valisime just need kuna nendega oli hea sensoreid roboti külge lisada ja need näevad lahedad välja.
 
 <img width="120" height="140" alt="690528576_1940574493260800_8525633376845302870_n" src="https://github.com/user-attachments/assets/4087414a-18b6-4833-8883-484ac21fbc10" />
 
-energy source - Litium patareid
+### Energia allikas
+
+Andu energia allikas on liitium patarei, mis on laaditav. Lahe.
 
 <img width="120" height="160" alt="685454294_1702758247567863_4734858499360150202_n" src="https://github.com/user-attachments/assets/dd6d665b-4174-4588-ae54-3fff884823ce" />
 
