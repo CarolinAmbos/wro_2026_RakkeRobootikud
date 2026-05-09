@@ -6,7 +6,7 @@ int ENA = 5;
 Servo rool;
 void setup() {
   // put your setup code here, to run once:
-  rool.attach(3); // servo pin
+  rool.attach(11); // servo pin
   Serial.begin(9600);
 
   pinMode(ENA, OUTPUT);
@@ -42,5 +42,6 @@ void loop() {
   // put your main code here, to run repeatedly:
   //edasi(500, 130);
 
-  edasi(2000, 60);
+  edasi(2000, 100);
+  rool.write(130);
 }
